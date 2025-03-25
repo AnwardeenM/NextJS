@@ -1,3 +1,5 @@
+import { notFound } from "next/navigation";
+
 export default async function ProductDetails({params}:
     {
         params:Promise<{productId:string}>

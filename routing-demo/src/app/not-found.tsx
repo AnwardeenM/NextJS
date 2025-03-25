@@ -6,3 +6,6 @@ export default function NotFound(){
         </div>        
     ) 
 }
+
+//This NotFound function doesn't accept any parameters.
+//That's default in the Nextjs function

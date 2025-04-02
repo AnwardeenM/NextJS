@@ -24,3 +24,5 @@ export default function RootLayout({
     </html>
   )
 }
+
+// when you visit the URL 

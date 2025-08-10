@@ -28,4 +28,7 @@ export default function RootLayout({
   )
 }
 
-// when you visit the URL 
+// when you visit the URL the metadate can be read from the dynamic route object based on the page
+// To set an unique / consistent title of metadata.
+// Never use absolute title in the metadata object, use generateMetadata instead.
+// If you want to set a default title, use the template property in the metadata object. 

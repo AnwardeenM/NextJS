@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* It is somehow not working, so I am trying to fix it by adding a postcss.config.mjs file.     */
